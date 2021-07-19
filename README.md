@@ -1,7 +1,7 @@
 ## SDRM Rest API
 
-Rest API for a simple dairy records manager for managing dairy records
-
+Rest API for a simple dairy records manager for managing dairy records\
+[**Frontend**](https://github.com/martin-nderitu/simple-dairy-record-manager)
 ### To get started
 
 1. Clone this repo and ``cd sdrm``
